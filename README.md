@@ -43,7 +43,7 @@ The AI **never executes code directly** — it only describes actions.
 ## 📦 Installation
 
 ```bash
-git clone (https://github.com/Harshitnakrani/ai-code-generator.git)
+git clone (https://github.com/JihanGajjar/Ai-code-generator.git)
 cd ai-code-generator
 npm install
 ```
